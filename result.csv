@@ -1,0 +1,16 @@
+bond,benchmark,spread_to_benchmark
+C1,G1,1.6%
+C3,G3,2.0%
+C4,G3,2.9%
+C5,G4,0.9%
+C2,G2,1.5%
+C6,G5,1.8%
+C7,G6,2.5%
+bond,spread_to_curve
+C1,1.87%
+C3,2.83%
+C4,3.93%
+C5,4.5%
+C2,2.17%
+C6,7.73%
+C7,9.47%
